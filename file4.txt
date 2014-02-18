@@ -1,2 +1,2 @@
 this is file4 a text file.
-feature a added by dev a
+feature a added by dev a - feature a1 added by dev a1
